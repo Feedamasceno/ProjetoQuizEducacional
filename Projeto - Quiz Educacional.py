@@ -23,54 +23,54 @@ else:
   print(f"A resposta é 'B', não {pergunta2!r}")
 
 pergunta3 = input(
-  "3) A pontuação numa prova de 25 questões é a seguinte: +4 por questão respondida corretamente e –1 por questão respondida de forma errada. Para que um aluno receba nota correspondente a um número positivo, deverá acertar no míni: \n a) 3 questões \n b) 4 questões \n c) 5 questões \n d) 6 questões \n e) 7 questões \n R: "
+  "3) Uma das formas de colaborar com a preservação do meio ambiente é reduzir a produção de resíduos. Mas como? \n a) Reutilizando os materiais e objetos sempre que possível. \n b) Apoiando iniciativas de reciclagem. \n c) Incentivando a participação individual e coletiva, permanente e responsável, na preservação do equilíbrio do meio ambiente, entendendo-se a defesa da qualidade ambiental como um valor inseparável do exercício da cidadania. \n d) Estimulando a cooperação entre as diversas regiões do País, com vistas à construção de uma sociedade ambientalmente equilibrada, fundada nos princípios da liberdade, igualdade, solidariedade, democracia, justiça social, responsabilidade e sustentabilidade. \n e) Todas as anteriores. \n R: "
 )
 
-if pergunta3 == ("a"):
+if pergunta3 == "E" or "e":
   print("Correto!")
   cont = cont + 1
 else:
-  print(f"A resposta é 'A', não {pergunta3!r}")
+  print(f"A resposta é 'E', não {pergunta3!r}")
 
 pergunta4 = input(
-  "4) A pontuação numa prova de 25 questões é a seguinte: +4 por questão respondida corretamente e –1 por questão respondida de forma errada. Para que um aluno receba nota correspondente a um número positivo, deverá acertar no míni: \n a) 3 questões \n b) 4 questões \n c) 5 questões \n d) 6 questões \n e) 7 questões \n R: "
+  "4) Qual alternativa abaixo apresenta uma vantagem da energia solar? \n a) Não é renovável. \n b) Não polui. \n c) É eficaz em qualquer clima. \n d) . \n e) . \n R: "
 )
 
-if pergunta4 == ("a"):
+if pergunta4 == "B" or "b":
   print("Correto!")
   cont = cont + 1
 else:
-  print(f"A resposta é 'A', não {pergunta4!r}")
+  print(f"A resposta é 'B', não {pergunta4!r}")
 
 pergunta5 = input(
-  "5) A pontuação numa prova de 25 questões é a seguinte: +4 por questão respondida corretamente e –1 por questão respondida de forma errada. Para que um aluno receba nota correspondente a um número positivo, deverá acertar no míni: \n a) 3 questões \n b) 4 questões \n c) 5 questões \n d) 6 questões \n e) 7 questões \n R: "
+  "5) O que é coleta seletiva? \n a) Destinação de resíduos para lixões e aterros. \n b) Processo de envio de todo o lixo produzido para cooperativas ou entrega para catadores de rua. \n c) Processo de separação e recolhimento dos resíduos para o reaproveitamento por meio de reciclagem. \n d) . \n e) . \n R: "
 )
 
-if pergunta5 == ("a"):
+if pergunta5 == "C" or "c":
   print("Correto!")
   cont = cont + 1
 else:
-  print(f"A resposta é 'A', não {pergunta5!r}")
+  print(f"A resposta é 'C', não {pergunta5!r}")
 
 pergunta6 = input(
-  "6) A pontuação numa prova de 25 questões é a seguinte: +4 por questão respondida corretamente e –1 por questão respondida de forma errada. Para que um aluno receba nota correspondente a um número positivo, deverá acertar no míni: \n a) 3 questões \n b) 4 questões \n c) 5 questões \n d) 6 questões \n e) 7 questões \n R: "
+  "6) O que é reciclagem? \n a) Processo de limpeza, separação e organização de um material que é descartado e não pode ser reutilizado. \n b) Coleta de entulho. \n c) Todo tipo de lixo coletado. \n d) Quando transformam materiais usados em novos produtos para a sua reutilização. \n e) Nome dado para o processo do descarte do lixo. \n R: "
 )
 
-if pergunta6 == ("a"):
+if pergunta6 == "D" or "D":
   print("Correto!")
   cont = cont + 1
 else:
-  print(f"A resposta é 'A', não {pergunta6!r}")
+  print(f"A resposta é 'D', não {pergunta6!r}")
 
 pergunta7 = input(
-  "7) A pontuação numa prova de 25 questões é a seguinte: +4 por questão respondida corretamente e –1 por questão respondida de forma errada. Para que um aluno receba nota correspondente a um número positivo, deverá acertar no míni: \n a) 3 questões \n b) 4 questões \n c) 5 questões \n d) 6 questões \n e) 7 questões \n R:"
+  "7) O que deve ser feito com os lixos eletrônicos - pilhas, baterias, celulares, tablets, entre outros? \n a) Jogar no lixo destinado aos metais. \n b) Jogar no lixo comum. \n c) Recolher, organizar e armazenar em casa o máximo de tempo que der. \n d) Descartar no caminhão do lixo. \n e) Procurar locais específicos para seu descarte. \n R:"
 )
 
-if pergunta7 == ("a"):
+if pergunta7 == "E" or "e":
   print("Correto!")
   cont = cont + 1
 else:
-  print(f"A resposta é 'A', não {pergunta7!r}")
+  print(f"A resposta é 'E', não {pergunta7!r}")
 
 pergunta8 = input(
   "8) A pontuação numa prova de 25 questões é a seguinte: +4 por questão respondida corretamente e –1 por questão respondida de forma errada. Para que um aluno receba nota correspondente a um número positivo, deverá acertar no míni: \n a) 3 questões \n b) 4 questões \n c) 5 questões \n d) 6 questões \n e) 7 questões \n R: "
